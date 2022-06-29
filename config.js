@@ -8,15 +8,15 @@ global.nameowner = 'HYORIN BOTZ'
 global.numberowner = '6285388611401'
 global.instagram = 'https://instagram.com/ikykunnnn'
 global.github = 'https://github.com/rizkiwibu'
-global.dana = '6283817161861'
-global.pulsa = '6283817161861'
-global.gopay = '6283817161861'
+global.dana = '089517993091'
+global.pulsa = '089517993091'
+global.gopay = '089517993091'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'HYORIN BOTZ'
 global.gc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '1 bulan = 6.000\n3 Bulan 10.000\n1 Minggu 4.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
